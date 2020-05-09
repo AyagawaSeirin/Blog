@@ -3,7 +3,7 @@ These are source files for my Blog: <https://qwq.best>
 
 The site is hosted in `gh-pages` branch via GitHub Pages, powered by Hexo.
 
-CI service is provided by travis-ci.org. CDN service is provided by Cloudflare and jsDelivr.
+CI service is provided by travis-ci.com. CDN service is provided by Cloudflare and jsDelivr.
 
 # LICENSE
 
